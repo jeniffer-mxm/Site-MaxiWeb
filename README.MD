@@ -8,9 +8,6 @@ O projeto foi construído com **HTML, CSS e JavaScript puros**, priorizando perf
 ## 🚀 Demonstração
 🔗 [Clique aqui para visualizar o site](https://jeniffer-mxm.github.io/Site-MaxiWeb/)
 
-📸 Print do site:
-![Prévia do site](assets/site-vendas.png)
-
 ---
 
 ## 🛠️ Tecnologias utilizadas
