@@ -1,7 +1,11 @@
 # 🌐 Site MaxiWeb
 
 Site institucional desenvolvido para a **MaxiWeb**, empresa especializada na criação de websites modernos e profissionais.  
+<<<<<<< HEAD
 O projeto foi construído com **HTML, CSS e JavaScript puros**, priorizando performance, responsividade e design limpo.
+=======
+O projeto foi construído com **HTML, CSS e JavaScript**puros, priorizando performance, responsividade e design limpo.
+>>>>>>> 15795fe28c66297b6c9794b59b183dcabee23e57
 
 ---
 
@@ -31,4 +35,8 @@ O projeto foi construído com **HTML, CSS e JavaScript puros**, priorizando perf
 📄 Licença
 
 Este projeto é de uso exclusivo da MaxiWeb.
+<<<<<<< HEAD
 Não é permitido o uso comercial sem autorização.
+=======
+Não é permitido o uso comercial sem autorização.
+>>>>>>> 15795fe28c66297b6c9794b59b183dcabee23e57
