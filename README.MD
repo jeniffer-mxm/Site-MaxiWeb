@@ -1,6 +1,6 @@
 # 🌐 Site MaxiWeb
 
-Site institucional desenvolvido para a **MaxiWeb**, empresa especializada na criação de websites modernos e profissionais. 
+## Site institucional desenvolvido para a **MaxiWeb**, empresa especializada na criação de websites modernos e profissionais. 
 O projeto foi construído com **HTML, CSS e JavaScript puros**, priorizando performance, responsividade e design limpo.
 ---
 
