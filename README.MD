@@ -1,13 +1,9 @@
 # 🌐 Site MaxiWeb
 
-Site institucional desenvolvido para a **MaxiWeb**, empresa especializada na criação de websites modernos e profissionais.  
-<<<<<<< HEAD
+Site institucional desenvolvido para a **MaxiWeb**, empresa especializada na criação de websites modernos e profissionais. 
+
 O projeto foi construído com **HTML, CSS e JavaScript puros**, priorizando performance, responsividade e design limpo.
 =======
-O projeto foi construído com **HTML, CSS e JavaScript**puros, priorizando performance, responsividade e design limpo.
->>>>>>> 15795fe28c66297b6c9794b59b183dcabee23e57
-
----
 
 ## 🚀 Demonstração
 🔗 [Clique aqui para visualizar o site](https://jeniffer-mxm.github.io/Site-MaxiWeb/)
